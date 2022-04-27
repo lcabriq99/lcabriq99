@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Luis Francisco Riquelme</h1>
-<h3 align="center">Soy un programador e ingeniero de software</h3>
+<h3 align="center">Soy  programador e ingeniero de software</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
